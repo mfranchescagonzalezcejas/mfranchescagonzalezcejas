@@ -1,12 +1,20 @@
-# Hi, I'm Mercedes 👋
+<h1 align="center">Hi, I'm Mercedes 👋</h1>
 
-Software developer based in Barcelona, focused on **mobile and full-stack development**.
+<p align="center">
+  <strong>Mobile & Full-Stack Developer based in Barcelona</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=620&lines=Building+mobile+apps;Working+with+Flutter%2C+Swift%2C+Kotlin+and+Python;Focused+on+clean+and+maintainable+code" alt="Typing SVG" />
+</p>
 
 I build practical applications with attention to user experience, maintainability, and real product value. My work combines mobile development, backend services, and clean project documentation.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-devdigi.dev-111827?style=flat-square)](https://devdigi.dev/en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mercedes_Gonzalez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mercedes-franchesca-gonzalez-cejas-7555a7177)
-[![GitHub](https://img.shields.io/badge/GitHub-mfranchescagonzalezcejas-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mfranchescagonzalezcejas)
+<p align="center">
+  <a href="https://devdigi.dev/en"><img src="https://img.shields.io/badge/Portfolio-devdigi.dev-111827?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mercedes-franchesca-gonzalez-cejas-7555a7177"><img src="https://img.shields.io/badge/LinkedIn-Mercedes_Gonzalez-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/mfranchescagonzalezcejas"><img src="https://img.shields.io/badge/GitHub-mfranchescagonzalezcejas-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ## Tech stack
 
@@ -27,6 +35,11 @@ Cross-platform reading and writing app built with a Flutter frontend and Python 
 **Focus:** mobile UX, backend integration, clean public-ready repositories
 
 [Frontend](https://github.com/mfranchescagonzalezcejas/inkscroller_frontend) · [Backend](https://github.com/mfranchescagonzalezcejas/Inkscroller_backend)
+
+<p>
+  <a href="https://github.com/mfranchescagonzalezcejas/inkscroller_frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mfranchescagonzalezcejas&repo=inkscroller_frontend&theme=default" alt="InkScroller frontend repository card" /></a>
+  <a href="https://github.com/mfranchescagonzalezcejas/Inkscroller_backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mfranchescagonzalezcejas&repo=Inkscroller_backend&theme=default" alt="InkScroller backend repository card" /></a>
+</p>
 
 ### Native mobile samples
 
