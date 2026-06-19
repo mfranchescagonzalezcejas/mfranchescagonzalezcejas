@@ -59,4 +59,7 @@ Small native mobile projects focused on learning platform-specific development p
 
 ## GitHub overview
 
-![Mercedes GitHub stats](https://github-readme-stats.vercel.app/api?username=mfranchescagonzalezcejas&show_icons=true&hide_title=true&hide_rank=true&theme=default)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mfranchescagonzalezcejas&show_icons=true&hide_title=true&hide_rank=true&theme=default" alt="Mercedes GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfranchescagonzalezcejas&layout=compact&theme=default" alt="Top languages" />
+</p>
