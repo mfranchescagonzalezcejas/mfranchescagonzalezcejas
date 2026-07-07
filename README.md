@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e40af,50:0d9488,75:3b82f6,100:0f172a&height=240&section=header&text=Mercedes%20Developer&fontSize=64&fontColor=fafafa&fontAlignY=40&desc=Flutter%20Developer%20%E2%80%A2%20Mobile%20Engineer%20(Android%2FiOS)%20%E2%80%A2%20Barcelona&descAlignY=62&descSize=17&descColor=fafafa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e40af,50:0d9488,75:3b82f6,100:0f172a&height=240&section=header&text=Hi%2C%20I'm%20Mercedes%20%F0%9F%91%8B&fontSize=64&fontColor=fafafa&fontAlignY=40&desc=Flutter%20Developer%20%E2%80%A2%20Mobile%20Engineer%20(Android%2FiOS)%20%E2%80%A2%20Barcelona&descAlignY=62&descSize=17&descColor=fafafa&animation=fadeIn" width="100%"/>
 
 <br/>
 
