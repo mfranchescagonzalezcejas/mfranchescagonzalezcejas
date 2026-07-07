@@ -1,14 +1,14 @@
 <!-- ─────────────────────────────────────────────────────────────────────── -->
-<!--  Mercedes profile README — watercolor palette from onyx766            -->
+<!--  Mercedes profile README — blue/teal palette                          -->
 <!-- ─────────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4b75,25:546988,50:9a5555,75:b87a3d,100:7d4a2a&height=240&section=header&text=Mercedes%20Developer&fontSize=64&fontColor=fafafa&fontAlignY=40&desc=Mobile%20%26%20Full-Stack%20Developer%20%E2%80%A2%20Barcelona&descAlignY=62&descSize=17&descColor=fafafa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e40af,50:0d9488,75:3b82f6,100:0f172a&height=240&section=header&text=Mercedes%20Developer&fontSize=64&fontColor=fafafa&fontAlignY=40&desc=Flutter%20Developer%20%E2%80%A2%20Mobile%20Engineer%20(Android%2FiOS)%20%E2%80%A2%20Barcelona&descAlignY=62&descSize=17&descColor=fafafa&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=B87A3D&center=true&vCenter=true&width=640&lines=Building+mobile+apps;Working+with+Flutter%2C+Swift%2C+Kotlin+and+Python;Focused+on+clean+and+maintainable+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=0d9488&center=true&vCenter=true&width=640&lines=Building+production+Flutter+apps;Shipping+mobile+features+end-to-end;Clean+architecture+%26+maintainable+code)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,21 +22,22 @@
 
 ### &nbsp;&nbsp;The short version
 
-<img align="right" width="220" src="https://gifdb.com/images/high/lofi-train-alone-chilling-b78fxpec0se4ttjl.gif" alt="lofi train" style="border-radius: 16px; margin-left: 20px"/>
+<img align="right" width="220" src="assets/ado-adosense.gif" alt="ADO" style="border-radius: 16px; margin-left: 20px"/>
 
-&nbsp;&nbsp;Mobile & full-stack developer building practical applications<br/>
-&nbsp;&nbsp;with attention to user experience, maintainability, and<br/>
-&nbsp;&nbsp;real product value. Based in Barcelona.
+&nbsp;&nbsp;Flutter Developer shipping production apps used by real users —<br/>
+&nbsp;&nbsp;from city-wide public services (50K+ installs) to full-stack projects.<br/>
+&nbsp;&nbsp;Strong foundation across Android (Kotlin) and iOS (Swift).<br/>
+&nbsp;&nbsp;Based in Barcelona.
 
-&nbsp;&nbsp;🎓 &nbsp; Computer Science background<br/>
-&nbsp;&nbsp;🛠️ &nbsp; Flutter, Swift, Kotlin, Python<br/>
-&nbsp;&nbsp;🎨 &nbsp; Clean code, maintainable architecture<br/>
-&nbsp;&nbsp;📫 &nbsp; Reach me at **[devdigi.dev](https://devdigi.dev/en)**
+&nbsp;&nbsp;🎓 &nbsp; Telecommunications Engineering (UPF) + Master's in AI<br/>
+&nbsp;&nbsp;🛠️ &nbsp; Flutter, Dart, Kotlin, Swift, Python, FastAPI<br/>
+&nbsp;&nbsp;🎨 &nbsp; Clean Architecture, Riverpod, CI/CD pipelines<br/>
+&nbsp;&nbsp;📫 &nbsp; **[mercedesgon03@gmail.com](mailto:mercedesgon03@gmail.com)** · **[devdigi.dev](https://devdigi.dev/en)**
 
 <br clear="right"/>
 
 <div align="center">
-  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0d9488,100:0f172a&height=3&section=header" alt=""/>
 </div>
 
 <!-- ─── FIND ME ───────────────────────────────────────────────────────── -->
@@ -47,13 +48,16 @@
   <br/><br/>
 
   <a href="https://devdigi.dev/en">
-    <img src="https://img.shields.io/badge/Portfolio-devdigi.dev-111827?style=for-the-badge&logo=vercel&logoColor=fafafa" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-devdigi.dev-0f172a?style=for-the-badge&logo=vercel&logoColor=fafafa" alt="Portfolio"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/mercedes-franchesca-gonzalez-cejas-7555a7177">
     <img src="https://img.shields.io/badge/LinkedIn-Mercedes_Gonzalez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fafafa" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="https://github.com/mfranchescagonzalezcejas">
-    <img src="https://img.shields.io/badge/GitHub-mfranchescagonzalezcejas-181717?style=for-the-badge&logo=github&logoColor=fafafa" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-mfranchescagonzalezcejas-0f172a?style=for-the-badge&logo=github&logoColor=fafafa" alt="GitHub"/>
+  </a>&nbsp;
+  <a href="mailto:mercedesgon03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d9488?style=for-the-badge&logo=gmail&logoColor=fafafa" alt="Email"/>
   </a>
 
 </div>
@@ -61,7 +65,7 @@
 <br/>
 
 <div align="center">
-  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0d9488,100:0f172a&height=3&section=header" alt=""/>
 </div>
 
 <!-- ─── TOOLKIT ───────────────────────────────────────────────────────── -->
@@ -75,7 +79,11 @@
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,docker,vercel&theme=light" alt="infra"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,firebase,docker,postgresql&theme=light" alt="backend"/>
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins&theme=light" alt="cicd"/>
 </a>
 
 </div>
@@ -83,7 +91,49 @@
 <br/>
 
 <div align="center">
-  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0d9488,100:0f172a&height=3&section=header" alt=""/>
+</div>
+
+<!-- ─── EXPERIENCE ────────────────────────────────────────────────────── -->
+
+<div align="center">
+  <sub><b>· &nbsp; E X P E R I E N C E &nbsp; ·</b></sub>
+
+  <br/><br/>
+
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Role</th>
+        <th align="center">Company</th>
+        <th align="center">Focus</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><b>Native Apps Developer</b><br/><sub>Apr 2024 – Jan 2026</sub></td>
+        <td align="center">Worldline Global Services</td>
+        <td align="center">Flutter apps for Ajuntament de Barcelona (La Mercè, Barcelona a la Butxaca), QA for Nescafé Dolce Gusto</td>
+      </tr>
+      <tr>
+        <td align="center"><b>Native Apps Developer Intern</b><br/><sub>Apr 2023 – Apr 2024</sub></td>
+        <td align="center">Worldline Global Services</td>
+        <td align="center">iOS (Swift), Android (Kotlin), Flutter cross-platform apps</td>
+      </tr>
+      <tr>
+        <td align="center"><b>Front-End Developer Intern</b><br/><sub>Oct 2021 – Apr 2022</sub></td>
+        <td align="center">Avanade</td>
+        <td align="center">PowerApps, Power BI, enterprise client projects</td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0d9488,100:0f172a&height=3&section=header" alt=""/>
 </div>
 
 <!-- ─── FEATURED ──────────────────────────────────────────────────────── -->
@@ -103,9 +153,19 @@
     </thead>
     <tbody>
       <tr>
-        <td align="center"><b>InkScroller</b><br/><sub>cross-platform reading app</sub></td>
-        <td align="center">Flutter · Dart · Python</td>
+        <td align="center"><b>InkScroller</b><br/><sub>manga reading app</sub></td>
+        <td align="center">Flutter · Dart · FastAPI · Python · PostgreSQL</td>
         <td align="center"><a href="https://github.com/mfranchescagonzalezcejas/inkscroller_frontend">frontend →</a> · <a href="https://github.com/mfranchescagonzalezcejas/Inkscroller_backend">backend →</a></td>
+      </tr>
+      <tr>
+        <td align="center"><b>La Mercè 2024</b><br/><sub>official Barcelona event app</sub></td>
+        <td align="center">Flutter · Dart</td>
+        <td align="center"><a href="https://play.google.com/store/apps/details?id=ajuntament.barcelona.lamerce">Android →</a></td>
+      </tr>
+      <tr>
+        <td align="center"><b>Barcelona a la Butxaca</b><br/><sub>city services app</sub></td>
+        <td align="center">Flutter · Dart</td>
+        <td align="center"><a href="https://play.google.com/store/apps/details?id=ajuntament.barcelona.la_butcaxa">Android →</a></td>
       </tr>
       <tr>
         <td align="center"><b>SwiftUI App</b><br/><sub>native iOS sample</sub></td>
@@ -113,13 +173,8 @@
         <td align="center"><a href="https://github.com/mfranchescagonzalezcejas/AppSwiftUI">repo →</a></td>
       </tr>
       <tr>
-        <td align="center"><b>UIKit App</b><br/><sub>native iOS sample</sub></td>
-        <td align="center">UIKit</td>
-        <td align="center"><a href="https://github.com/mfranchescagonzalezcejas/AppUIKit">repo →</a></td>
-      </tr>
-      <tr>
         <td align="center"><b>Android App</b><br/><sub>native Android sample</sub></td>
-        <td align="center">Kotlin</td>
+        <td align="center">Kotlin · Jetpack Compose</td>
         <td align="center"><a href="https://github.com/mfranchescagonzalezcejas/AppAndroid">repo →</a></td>
       </tr>
     </tbody>
@@ -130,7 +185,7 @@
 <br/>
 
 <div align="center">
-  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0d9488,100:0f172a&height=3&section=header" alt=""/>
 </div>
 
 <!-- ─── STATS ─────────────────────────────────────────────────────────── -->
@@ -140,8 +195,8 @@
 
   <br/><br/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mfranchescagonzalezcejas&show_icons=true&hide_title=true&hide_rank=true&theme=default" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfranchescagonzalezcejas&layout=compact&theme=default" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mfranchescagonzalezcejas&show_icons=true&hide_title=true&hide_rank=true&theme=tokyonight" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfranchescagonzalezcejas&layout=compact&theme=tokyonight" alt="Top languages"/>
 
 </div>
 
@@ -149,4 +204,4 @@
 
 <!-- ─── FOOTER ────────────────────────────────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7d4a2a,25:b87a3d,50:9a5555,75:546988,100:1b4b75&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:3b82f6,50:0d9488,75:1e40af,100:0f172a&height=120&section=footer&animation=fadeIn" width="100%"/>
