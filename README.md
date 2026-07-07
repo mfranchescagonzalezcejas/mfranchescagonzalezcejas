@@ -195,8 +195,8 @@
 
   <br/><br/>
 
-  <img height="170" src="https://ghstats.dev/api/card?username=mfranchescagonzalezcejas&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mfranchescagonzalezcejas&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img width="49%" src="https://ghstats.dev/api/card?username=mfranchescagonzalezcejas&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mfranchescagonzalezcejas&theme=tokyonight&hide_border=true&card_width=495" alt="GitHub streak"/>
 
 </div>
 
@@ -209,7 +209,7 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mfranchescagonzalezcejas&bg_color=0f172a&color=0d9488&line=3b82f6&point=1e40af&area=true&area_color=0d9488&hide_border=true" width="85%" alt="GitHub activity graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mfranchescagonzalezcejas&bg_color=0f172a&color=0d9488&line=3b82f6&point=1e40af&area=true&area_color=0d9488&hide_border=true" alt="GitHub activity graph"/>
 
 </div>
 
