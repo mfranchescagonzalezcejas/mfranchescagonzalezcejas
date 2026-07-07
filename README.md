@@ -1,65 +1,152 @@
-<h1 align="center">Hi, I'm Mercedes 👋</h1>
+<!-- ─────────────────────────────────────────────────────────────────────── -->
+<!--  Mercedes profile README — watercolor palette from onyx766            -->
+<!-- ─────────────────────────────────────────────────────────────────────── -->
 
-<p align="center">
-  <strong>Mobile & Full-Stack Developer based in Barcelona</strong>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=620&lines=Building+mobile+apps;Working+with+Flutter%2C+Swift%2C+Kotlin+and+Python;Focused+on+clean+and+maintainable+code" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4b75,25:546988,50:9a5555,75:b87a3d,100:7d4a2a&height=240&section=header&text=Mercedes%20Developer&fontSize=64&fontColor=fafafa&fontAlignY=40&desc=Mobile%20%26%20Full-Stack%20Developer%20%E2%80%A2%20Barcelona&descAlignY=62&descSize=17&descColor=fafafa&animation=fadeIn" width="100%"/>
 
-I build practical applications with attention to user experience, maintainability, and real product value. My work combines mobile development, backend services, and clean project documentation.
+<br/>
 
-<p align="center">
-  <a href="https://devdigi.dev/en"><img src="https://img.shields.io/badge/Portfolio-devdigi.dev-111827?style=flat-square" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mercedes-franchesca-gonzalez-cejas-7555a7177"><img src="https://img.shields.io/badge/LinkedIn-Mercedes_Gonzalez-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/mfranchescagonzalezcejas"><img src="https://img.shields.io/badge/GitHub-mfranchescagonzalezcejas-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=B87A3D&center=true&vCenter=true&width=640&lines=Building+mobile+apps;Working+with+Flutter%2C+Swift%2C+Kotlin+and+Python;Focused+on+clean+and+maintainable+code)](https://git.io/typing-svg)
 
-## Tech stack
+</div>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<br/>
 
-## Featured projects
+<!-- ─── ABOUT ─────────────────────────────────────────────────────────── -->
 
-### InkScroller
+<div align="center">
+  <sub><b>· &nbsp; A B O U T &nbsp; ·</b></sub>
+</div>
 
-Cross-platform reading and writing app built with a Flutter frontend and Python backend.
+### &nbsp;&nbsp;The short version
 
-**Stack:** Flutter, Dart, Python  
-**Focus:** mobile UX, backend integration, clean public-ready repositories
+<img align="right" width="220" src="https://gifdb.com/images/high/lofi-train-alone-chilling-b78fxpec0se4ttjl.gif" alt="lofi train" style="border-radius: 16px; margin-left: 20px"/>
 
-[Frontend](https://github.com/mfranchescagonzalezcejas/inkscroller_frontend) · [Backend](https://github.com/mfranchescagonzalezcejas/Inkscroller_backend)
+&nbsp;&nbsp;Mobile & full-stack developer building practical applications<br/>
+&nbsp;&nbsp;with attention to user experience, maintainability, and<br/>
+&nbsp;&nbsp;real product value. Based in Barcelona.
 
-<p>
-  <a href="https://github.com/mfranchescagonzalezcejas/inkscroller_frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mfranchescagonzalezcejas&repo=inkscroller_frontend&theme=default" alt="InkScroller frontend repository card" /></a>
-  <a href="https://github.com/mfranchescagonzalezcejas/Inkscroller_backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mfranchescagonzalezcejas&repo=Inkscroller_backend&theme=default" alt="InkScroller backend repository card" /></a>
-</p>
+&nbsp;&nbsp;🎓 &nbsp; Computer Science background<br/>
+&nbsp;&nbsp;🛠️ &nbsp; Flutter, Swift, Kotlin, Python<br/>
+&nbsp;&nbsp;🎨 &nbsp; Clean code, maintainable architecture<br/>
+&nbsp;&nbsp;📫 &nbsp; Reach me at **[devdigi.dev](https://devdigi.dev/en)**
 
-### Native mobile samples
+<br clear="right"/>
 
-Small native mobile projects focused on learning platform-specific development patterns.
+<div align="center">
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+</div>
 
-**Stack:** SwiftUI, UIKit, Kotlin  
-**Focus:** native mobile foundations, UI patterns, platform APIs
+<!-- ─── FIND ME ───────────────────────────────────────────────────────── -->
 
-[SwiftUI App](https://github.com/mfranchescagonzalezcejas/AppSwiftUI) · [UIKit App](https://github.com/mfranchescagonzalezcejas/AppUIKit) · [Android App](https://github.com/mfranchescagonzalezcejas/AppAndroid)
+<div align="center">
+  <sub><b>· &nbsp; F I N D &nbsp; M E &nbsp; ·</b></sub>
 
-## Currently focused on
+  <br/><br/>
 
-- Mobile app architecture
-- Backend API design
-- Portfolio-ready project documentation
-- Clean and maintainable codebases
+  <a href="https://devdigi.dev/en">
+    <img src="https://img.shields.io/badge/Portfolio-devdigi.dev-111827?style=for-the-badge&logo=vercel&logoColor=fafafa" alt="Portfolio"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/mercedes-franchesca-gonzalez-cejas-7555a7177">
+    <img src="https://img.shields.io/badge/LinkedIn-Mercedes_Gonzalez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fafafa" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://github.com/mfranchescagonzalezcejas">
+    <img src="https://img.shields.io/badge/GitHub-mfranchescagonzalezcejas-181717?style=for-the-badge&logo=github&logoColor=fafafa" alt="GitHub"/>
+  </a>
 
-## GitHub overview
+</div>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mfranchescagonzalezcejas&show_icons=true&hide_title=true&hide_rank=true&theme=default" alt="Mercedes GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfranchescagonzalezcejas&layout=compact&theme=default" alt="Top languages" />
-</p>
+<br/>
+
+<div align="center">
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+</div>
+
+<!-- ─── TOOLKIT ───────────────────────────────────────────────────────── -->
+
+<div align="center">
+  <sub><b>· &nbsp; T O O L K I T &nbsp; ·</b></sub>
+
+  <br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,python&theme=light" alt="mobile"/>
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,docker,vercel&theme=light" alt="infra"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+</div>
+
+<!-- ─── FEATURED ──────────────────────────────────────────────────────── -->
+
+<div align="center">
+  <sub><b>· &nbsp; F E A T U R E D &nbsp; ·</b></sub>
+
+  <br/><br/>
+
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Project</th>
+        <th align="center">Stack</th>
+        <th align="center">Links</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><b>InkScroller</b><br/><sub>cross-platform reading app</sub></td>
+        <td align="center">Flutter · Dart · Python</td>
+        <td align="center"><a href="https://github.com/mfranchescagonzalezcejas/inkscroller_frontend">frontend →</a> · <a href="https://github.com/mfranchescagonzalezcejas/Inkscroller_backend">backend →</a></td>
+      </tr>
+      <tr>
+        <td align="center"><b>SwiftUI App</b><br/><sub>native iOS sample</sub></td>
+        <td align="center">SwiftUI</td>
+        <td align="center"><a href="https://github.com/mfranchescagonzalezcejas/AppSwiftUI">repo →</a></td>
+      </tr>
+      <tr>
+        <td align="center"><b>UIKit App</b><br/><sub>native iOS sample</sub></td>
+        <td align="center">UIKit</td>
+        <td align="center"><a href="https://github.com/mfranchescagonzalezcejas/AppUIKit">repo →</a></td>
+      </tr>
+      <tr>
+        <td align="center"><b>Android App</b><br/><sub>native Android sample</sub></td>
+        <td align="center">Kotlin</td>
+        <td align="center"><a href="https://github.com/mfranchescagonzalezcejas/AppAndroid">repo →</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+</div>
+
+<!-- ─── STATS ─────────────────────────────────────────────────────────── -->
+
+<div align="center">
+  <sub><b>· &nbsp; S T A T S &nbsp; ·</b></sub>
+
+  <br/><br/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mfranchescagonzalezcejas&show_icons=true&hide_title=true&hide_rank=true&theme=default" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfranchescagonzalezcejas&layout=compact&theme=default" alt="Top languages"/>
+
+</div>
+
+<br/>
+
+<!-- ─── FOOTER ────────────────────────────────────────────────────────── -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7d4a2a,25:b87a3d,50:9a5555,75:546988,100:1b4b75&height=120&section=footer&animation=fadeIn" width="100%"/>
