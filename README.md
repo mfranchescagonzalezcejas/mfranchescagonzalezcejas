@@ -40,53 +40,43 @@
   <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0d9488,100:0f172a&height=3&section=header" alt=""/>
 </div>
 
-<!-- ─── FIND ME ───────────────────────────────────────────────────────── -->
+<!-- ─── FIND ME + TOOLKIT ─────────────────────────────────────────────── -->
 
-<div align="center">
-  <sub><b>· &nbsp; F I N D &nbsp; M E &nbsp; ·</b></sub>
-
-  <br/><br/>
-
-  <a href="https://devdigi.dev/en">
-    <img src="https://img.shields.io/badge/Portfolio-devdigi.dev-0f172a?style=for-the-badge&logo=vercel&logoColor=fafafa" alt="Portfolio"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/mercedes-franchesca-gonzalez-cejas-7555a7177">
-    <img src="https://img.shields.io/badge/LinkedIn-Mercedes_Gonzalez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fafafa" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://github.com/mfranchescagonzalezcejas">
-    <img src="https://img.shields.io/badge/GitHub-mfranchescagonzalezcejas-0f172a?style=for-the-badge&logo=github&logoColor=fafafa" alt="GitHub"/>
-  </a>&nbsp;
-  <a href="mailto:mercedesgon03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d9488?style=for-the-badge&logo=gmail&logoColor=fafafa" alt="Email"/>
-  </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0d9488,100:0f172a&height=3&section=header" alt=""/>
-</div>
-
-<!-- ─── TOOLKIT ───────────────────────────────────────────────────────── -->
-
-<div align="center">
-  <sub><b>· &nbsp; T O O L K I T &nbsp; ·</b></sub>
-
-  <br/><br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,python&theme=light" alt="mobile"/>
-</a>
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=fastapi,firebase,docker,postgresql&theme=light" alt="backend"/>
-</a>
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins&theme=light" alt="cicd"/>
-</a>
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <sub><b>· &nbsp; F I N D &nbsp; M E &nbsp; ·</b></sub>
+      <br/><br/>
+      <a href="https://devdigi.dev/en">
+        <img src="https://img.shields.io/badge/Portfolio-devdigi.dev-0f172a?style=for-the-badge&logo=vercel&logoColor=fafafa" alt="Portfolio"/>
+      </a>&nbsp;
+      <a href="https://www.linkedin.com/in/mercedes-franchesca-gonzalez-cejas-7555a7177">
+        <img src="https://img.shields.io/badge/LinkedIn-Mercedes_Gonzalez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fafafa" alt="LinkedIn"/>
+      </a>&nbsp;
+      <a href="https://github.com/mfranchescagonzalezcejas">
+        <img src="https://img.shields.io/badge/GitHub-mfranchescagonzalezcejas-0f172a?style=for-the-badge&logo=github&logoColor=fafafa" alt="GitHub"/>
+      </a>&nbsp;
+      <a href="mailto:mercedesgon03@gmail.com">
+        <img src="https://img.shields.io/badge/Email-0d9488?style=for-the-badge&logo=gmail&logoColor=fafafa" alt="Email"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <sub><b>· &nbsp; T O O L K I T &nbsp; ·</b></sub>
+      <br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,python&theme=light" alt="mobile"/>
+      </a>
+      <br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=fastapi,firebase,docker,postgresql&theme=light" alt="backend"/>
+      </a>
+      <br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins&theme=light" alt="cicd"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
