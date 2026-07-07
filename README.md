@@ -192,6 +192,40 @@
 
 <br/>
 
+<div align="center">
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0d9488,100:0f172a&height=3&section=header" alt=""/>
+</div>
+
+<!-- ─── TROPHIES ──────────────────────────────────────────────────────── -->
+
+<div align="center">
+  <sub><b>· &nbsp; T R O P H I E S &nbsp; ·</b></sub>
+
+<br/><br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=mfranchescagonzalezcejas&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0d9488,100:0f172a&height=3&section=header" alt=""/>
+</div>
+
+<!-- ─── RECENT ACTIVITY ──────────────────────────────────────────────── -->
+
+<div align="center">
+  <sub><b>· &nbsp; R E C E N T &nbsp; A C T I V I T Y &nbsp; ·</b></sub>
+
+<br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mfranchescagonzalezcejas&bg_color=0f172a&color=0d9488&line=3b82f6&point=ffffff&area=true&area_color=1e40af&hide_border=true" alt="GitHub Activity Graph"/>
+
+</div>
+
+<br/>
+
 <!-- ─── FOOTER ────────────────────────────────────────────────────────── -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:3b82f6,50:0d9488,75:1e40af,100:0f172a&height=120&section=footer&animation=fadeIn" width="100%"/>
