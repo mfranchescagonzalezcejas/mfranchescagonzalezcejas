@@ -42,17 +42,17 @@
 
 <!-- ─── FIND ME + TOOLKIT ─────────────────────────────────────────────── -->
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: none;">
       <sub><b>· &nbsp; F I N D &nbsp; M E &nbsp; ·</b></sub>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: none;">
       <sub><b>· &nbsp; T O O L K I T &nbsp; ·</b></sub>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="middle" width="50%">
+    <td align="center" valign="middle" width="50%" style="border: none;">
       <a href="https://devdigi.dev/en">
         <img src="https://img.shields.io/badge/Portfolio-devdigi.dev-0f172a?style=for-the-badge&logo=vercel&logoColor=fafafa" alt="Portfolio"/>
       </a>&nbsp;
@@ -66,7 +66,7 @@
         <img src="https://img.shields.io/badge/Email-0d9488?style=for-the-badge&logo=gmail&logoColor=fafafa" alt="Email"/>
       </a>
     </td>
-    <td align="center" valign="middle" width="50%">
+    <td align="center" valign="middle" width="50%" style="border: none;">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,python,fastapi,firebase,docker,postgresql,git,github,gitlab,jenkins&theme=light" alt="tech stack"/>
       </a>
