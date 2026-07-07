@@ -15,12 +15,16 @@
 <br/>
 
 <div align="center">
-  <img src="https://shieldcn.dev/badge/🔍_Open_to_Work-0d9488.svg?logo=github&variant=outline" alt="Open to Work"/>
-  &nbsp;
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mfranchescagonzalezcejas.mfranchescagonzalezcejas" alt="Profile views"/>
-  &nbsp;
+  <a href="https://github.com/mfranchescagonzalezcejas">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=2000&color=0D9488&center=true&vCenter=true&width=280&lines=Open+to+Work+%F0%9F%92%AC&duration=3000&hide_cursor=true&repeat=true" alt="Open to Work"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/mfranchescagonzalezcejas">
+    <img src="https://counter.kuber.studio/mfranchescagonzalezcejas/hacker/count.svg" alt="Profile views"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://ko-fi.com/devdigi" target="_blank">
-    <img src="https://shieldcn.dev/badge/Ko--fi-FF5E5B.svg?logo=ko-fi" alt="Ko-fi"/>
+    <img src="https://capsule-render.vercel.app/api?type=flat&color=0:0f172a,50:0d9488,100:0f172a&height=30&section=button&text=Buy%20me%20a%20coffee%20%E2%98%95&fontSize=14&fontColor=fafafa&animation=fadeIn" alt="Ko-fi"/>
   </a>
 </div>
 
