@@ -108,12 +108,12 @@
       <tr>
         <td align="center"><b>La Mercè 2024</b><br/><sub>official Barcelona event app</sub></td>
         <td align="center">Flutter · Dart</td>
-        <td align="center"><a href="https://play.google.com/store/apps/details?id=ajuntament.barcelona.lamerce">Android →</a></td>
+        <td align="center"><a href="https://apps.apple.com/us/app/merc%C3%A8-festa-de-barcelona/id686632305">iOS →</a> · <a href="https://play.google.com/store/apps/details?id=ajuntament.barcelona.lamerce">Android →</a></td>
       </tr>
       <tr>
         <td align="center"><b>Barcelona a la Butxaca</b><br/><sub>city services app</sub></td>
         <td align="center">Flutter · Dart</td>
-        <td align="center"><a href="https://play.google.com/store/apps/details?id=ajuntament.barcelona.la_butcaxa">Android →</a></td>
+        <td align="center"><a href="https://apps.apple.com/us/app/barcelona-a-la-butxaca/id1465234509">iOS →</a> · <a href="https://play.google.com/store/apps/details?id=ajuntament.barcelona.la_butcaxa">Android →</a></td>
       </tr>
       <tr>
         <td align="center"><b>SwiftUI App</b><br/><sub>native iOS sample</sub></td>
