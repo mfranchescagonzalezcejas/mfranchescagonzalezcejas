@@ -195,8 +195,21 @@
 
   <br/><br/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mfranchescagonzalezcejas&show_icons=true&hide_title=true&hide_rank=true&theme=tokyonight" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfranchescagonzalezcejas&layout=compact&theme=tokyonight" alt="Top languages"/>
+  <img height="170" src="https://ghstats.dev/api/card?username=mfranchescagonzalezcejas&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mfranchescagonzalezcejas&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+</div>
+
+<br/>
+
+<!-- ─── ACTIVITY ──────────────────────────────────────────────────────── -->
+
+<div align="center">
+  <sub><b>· &nbsp; A C T I V I T Y &nbsp; ·</b></sub>
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mfranchescagonzalezcejas&bg_color=0f172a&color=0d9488&line=3b82f6&point=1e40af&area=true&area_color=0d9488&hide_border=true" width="85%" alt="GitHub activity graph"/>
 
 </div>
 
