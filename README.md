@@ -44,7 +44,7 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" style="vertical-align: middle;" width="50%">
       <sub><b>· &nbsp; F I N D &nbsp; M E &nbsp; ·</b></sub>
       <br/><br/>
       <a href="https://devdigi.dev/en">
@@ -60,7 +60,7 @@
         <img src="https://img.shields.io/badge/Email-0d9488?style=for-the-badge&logo=gmail&logoColor=fafafa" alt="Email"/>
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" style="vertical-align: middle;" width="50%">
       <sub><b>· &nbsp; T O O L K I T &nbsp; ·</b></sub>
       <br/><br/>
       <a href="https://skillicons.dev">
