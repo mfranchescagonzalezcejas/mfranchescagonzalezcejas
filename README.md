@@ -119,35 +119,45 @@
       <tr>
         <td align="center"><b>InkScroller</b><br/><sub>manga reading app</sub></td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=flutter,dart,fastapi,python,postgresql&theme=light" alt="tech stack"/>
+          <div align="center">
+            <img src="https://skillicons.dev/icons?i=flutter,dart,fastapi,python,postgresql&theme=light" alt="tech stack"/>
+          </div>
         </td>
         <td align="center"><a href="https://github.com/mfranchescagonzalezcejas/inkscroller_frontend">frontend →</a> · <a href="https://github.com/mfranchescagonzalezcejas/Inkscroller_backend">backend →</a></td>
       </tr>
       <tr>
         <td align="center"><b>La Mercè 2024</b><br/><sub>official Barcelona event app</sub></td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=flutter,dart&theme=light" alt="tech stack"/>
+          <div align="center">
+            <img src="https://skillicons.dev/icons?i=flutter,dart&theme=light" alt="tech stack"/>
+          </div>
         </td>
         <td align="center"><a href="https://apps.apple.com/us/app/merc%C3%A8-festa-de-barcelona/id686632305">App Store →</a> · <a href="https://play.google.com/store/apps/details?id=ajuntament.barcelona.lamerce">Google Play →</a></td>
       </tr>
       <tr>
         <td align="center"><b>Barcelona a la Butxaca</b><br/><sub>city services app</sub></td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=flutter,dart&theme=light" alt="tech stack"/>
+          <div align="center">
+            <img src="https://skillicons.dev/icons?i=flutter,dart&theme=light" alt="tech stack"/>
+          </div>
         </td>
         <td align="center"><a href="https://apps.apple.com/us/app/barcelona-a-la-butxaca/id1465234509">App Store →</a> · <a href="https://play.google.com/store/apps/details?id=ajuntament.barcelona.la_butcaxa">Google Play →</a></td>
       </tr>
       <tr>
         <td align="center"><b>SwiftUI App</b><br/><sub>native iOS sample</sub></td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=swift&theme=light" alt="tech stack"/>
+          <div align="center">
+            <img src="https://skillicons.dev/icons?i=swift&theme=light" alt="tech stack"/>
+          </div>
         </td>
         <td align="center"><a href="https://github.com/mfranchescagonzalezcejas/AppSwiftUI">repo →</a></td>
       </tr>
       <tr>
         <td align="center"><b>Android App</b><br/><sub>native Android sample</sub></td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=kotlin,android&theme=light" alt="tech stack"/>
+          <div align="center">
+            <img src="https://skillicons.dev/icons?i=kotlin,android&theme=light" alt="tech stack"/>
+          </div>
         </td>
         <td align="center"><a href="https://github.com/mfranchescagonzalezcejas/AppAndroid">repo →</a></td>
       </tr>
