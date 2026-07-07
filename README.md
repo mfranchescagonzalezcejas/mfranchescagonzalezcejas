@@ -8,14 +8,14 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=0d9488&center=true&vCenter=true&width=640&lines=Building+production+Flutter+apps;Shipping+mobile+features+end-to-end;Clean+architecture+%26+maintainable+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=0d9488&center=true&vCenter=true&width=640&lines=Building+production+Flutter+apps;Shipping+mobile+features+end-to-end;Clean+architecture+%26+maintainable+code)](https://readme-typing-svg.demolab.com/)
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🔍-Open%20to%20Work-0d9488?style=for-the-badge&logo=github&logoColor=fafafa" alt="Open to Work"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-0d9488?style=for-the-badge&logo=github&logoColor=fafafa" alt="Open to Work"/>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=mfranchescagonzalezcejas&color=0d9488&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
   &nbsp;
@@ -32,19 +32,25 @@
   <sub><b>· &nbsp; A B O U T &nbsp; ·</b></sub>
 </div>
 
-### &nbsp;&nbsp;The short version
+### The short version
 
 <img align="right" width="220" src="assets/ado-adosense.gif" alt="ADO" style="margin-left: 20px"/>
 
-&nbsp;&nbsp;Flutter Developer shipping production apps used by real users —<br/>
-&nbsp;&nbsp;from city-wide public services (50K+ installs) to full-stack projects.<br/>
-&nbsp;&nbsp;Strong foundation across Android (Kotlin) and iOS (Swift).<br/>
-&nbsp;&nbsp;Based in Barcelona.
+Flutter Developer shipping production apps used by real users —<br/>
+from city-wide public services (50K+ installs) to full-stack projects.<br/>
+Strong foundation across Android (Kotlin) and iOS (Swift).<br/>
+Based in Barcelona.
 
-&nbsp;&nbsp;🎓 &nbsp; Telecommunications Engineering (UPF) + Master's in AI<br/>
-&nbsp;&nbsp;🛠️ &nbsp; Flutter, Dart, Kotlin, Swift, Python, FastAPI<br/>
-&nbsp;&nbsp;🎨 &nbsp; Clean Architecture, Riverpod, CI/CD pipelines<br/>
-&nbsp;&nbsp;📫 &nbsp; **[mercedesgon03@gmail.com](mailto:mercedesgon03@gmail.com)** · **[devdigi.dev](https://devdigi.dev/en)**
+🎓 &nbsp; Telecommunications Engineering (UPF) + Master's in AI<br/>
+🛠️ &nbsp; Flutter, Dart, Kotlin, Swift, Python, FastAPI<br/>
+🎨 &nbsp; Clean Architecture, Riverpod, CI/CD pipelines<br/>
+ &nbsp; **[mercedesgon03@gmail.com](mailto:mercedesgon03@gmail.com)** · **[devdigi.dev](https://devdigi.dev/en)**
+
+### Currently
+
+🔍 &nbsp;Open to new opportunities as a Flutter/Mobile Engineer<br/>
+📱 &nbsp;Building cross-platform apps with Flutter + clean architecture<br/>
+🧪 &nbsp;Exploring AI integration in mobile workflows
 
 <br clear="right"/>
 
@@ -54,17 +60,17 @@
 
 <!-- ─── FIND ME + TOOLKIT ─────────────────────────────────────────────── -->
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: 0; border-collapse: collapse;">
   <tr>
-    <td align="center" width="50%" style="border: none;">
+    <td align="center" width="50%" style="border: 0;">
       <sub><b>· &nbsp; F I N D &nbsp; M E &nbsp; ·</b></sub>
     </td>
-    <td align="center" width="50%" style="border: none;">
+    <td align="center" width="50%" style="border: 0;">
       <sub><b>· &nbsp; T O O L K I T &nbsp; ·</b></sub>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="middle" width="50%" style="border: none;">
+    <td align="center" valign="middle" width="50%" style="border: 0;">
       <a href="https://devdigi.dev/en">
         <img src="https://shieldcn.dev/badge/Portfolio-devdigi.dev-0f172a.svg?logo=vercel" alt="Portfolio"/>
       </a>&nbsp;
@@ -78,7 +84,7 @@
         <img src="https://shieldcn.dev/badge/Email-0d9488.svg?logo=gmail" alt="Email"/>
       </a>
     </td>
-    <td align="center" valign="middle" width="50%" style="border: none;">
+    <td align="center" valign="middle" width="50%" style="border: 0;">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,python,fastapi,firebase,vercel&theme=light" alt="tech stack"/>
       </a>
