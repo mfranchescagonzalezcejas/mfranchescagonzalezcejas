@@ -68,7 +68,11 @@
     </td>
     <td align="center" valign="middle" width="50%" style="border: none;">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,python,fastapi,firebase,docker,postgresql,git,github,gitlab,jenkins&theme=light" alt="tech stack"/>
+        <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,python,fastapi,firebase&theme=light" alt="tech stack"/>
+      </a>
+      <br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,postgresql,git,github,gitlab,jenkins&theme=light" alt="tech stack"/>
       </a>
     </td>
   </tr>
