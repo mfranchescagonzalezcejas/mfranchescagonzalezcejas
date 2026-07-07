@@ -15,12 +15,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🔍-Open%20to%20Work-0d9488?style=for-the-badge&logo=github&logoColor=fafafa" alt="Open to Work"/>
+  <img src="https://shieldcn.dev/badge/🔍_Open_to_Work-0d9488.svg?logo=github" alt="Open to Work"/>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=mfranchescagonzalezcejas&color=0d9488&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
   &nbsp;
   <a href="https://buymeacoffee.com/devdigi" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+    <img src="https://shieldcn.dev/badge/Buy_Me_a_Coffee-ffdd00.svg?logo=buy-me-a-coffee" alt="Buy Me a Coffee"/>
   </a>
 </div>
 
@@ -66,16 +66,16 @@
   <tr>
     <td align="center" valign="middle" width="50%" style="border: none;">
       <a href="https://devdigi.dev/en">
-        <img src="https://img.shields.io/badge/Portfolio-devdigi.dev-0f172a?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
+        <img src="https://shieldcn.dev/badge/Portfolio-devdigi.dev-0f172a.svg?logo=vercel" alt="Portfolio"/>
       </a>&nbsp;
       <a href="https://www.linkedin.com/in/mercedes-franchesca-gonzalez-cejas-7555a7177">
-        <img src="https://img.shields.io/badge/LinkedIn-Mercedes_Gonzalez-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="https://shieldcn.dev/badge/LinkedIn-Mercedes_Gonzalez-0A66C2.svg?logo=linkedin" alt="LinkedIn"/>
       </a>&nbsp;
       <a href="https://github.com/mfranchescagonzalezcejas">
-        <img src="https://img.shields.io/badge/GitHub-mfranchescagonzalezcejas-0f172a?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+        <img src="https://shieldcn.dev/badge/GitHub-mfranchescagonzalezcejas-0f172a.svg?logo=github" alt="GitHub"/>
       </a>&nbsp;
       <a href="mailto:mercedesgon03@gmail.com">
-        <img src="https://img.shields.io/badge/Email-0d9488?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+        <img src="https://shieldcn.dev/badge/Email-0d9488.svg?logo=gmail" alt="Email"/>
       </a>
     </td>
     <td align="center" valign="middle" width="50%" style="border: none;">
@@ -115,42 +115,42 @@
       <tr>
         <td align="center"><b>InkScroller</b><br/><sub>manga reading app</sub></td>
         <td align="center">
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
-          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/>
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+          <img src="https://shieldcn.dev/badge/Flutter-02569B.svg?logo=flutter" alt="Flutter"/>
+          <img src="https://shieldcn.dev/badge/Dart-0175C2.svg?logo=dart" alt="Dart"/>
+          <img src="https://shieldcn.dev/badge/FastAPI-009688.svg?logo=fastapi" alt="FastAPI"/>
+          <img src="https://shieldcn.dev/badge/Python-3776AB.svg?logo=python" alt="Python"/>
+          <img src="https://shieldcn.dev/badge/PostgreSQL-4169E1.svg?logo=postgresql" alt="PostgreSQL"/>
         </td>
         <td align="center"><a href="https://github.com/mfranchescagonzalezcejas/inkscroller_frontend">frontend →</a> · <a href="https://github.com/mfranchescagonzalezcejas/Inkscroller_backend">backend →</a></td>
       </tr>
       <tr>
         <td align="center"><b>La Mercè 2024</b><br/><sub>official Barcelona event app</sub></td>
         <td align="center">
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
-          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/>
+          <img src="https://shieldcn.dev/badge/Flutter-02569B.svg?logo=flutter" alt="Flutter"/>
+          <img src="https://shieldcn.dev/badge/Dart-0175C2.svg?logo=dart" alt="Dart"/>
         </td>
         <td align="center"><a href="https://apps.apple.com/us/app/merc%C3%A8-festa-de-barcelona/id686632305">App Store →</a> · <a href="https://play.google.com/store/apps/details?id=ajuntament.barcelona.lamerce">Google Play →</a></td>
       </tr>
       <tr>
         <td align="center"><b>Barcelona a la Butxaca</b><br/><sub>city services app</sub></td>
         <td align="center">
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
-          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/>
+          <img src="https://shieldcn.dev/badge/Flutter-02569B.svg?logo=flutter" alt="Flutter"/>
+          <img src="https://shieldcn.dev/badge/Dart-0175C2.svg?logo=dart" alt="Dart"/>
         </td>
         <td align="center"><a href="https://apps.apple.com/us/app/barcelona-a-la-butxaca/id1465234509">App Store →</a> · <a href="https://play.google.com/store/apps/details?id=ajuntament.barcelona.la_butcaxa">Google Play →</a></td>
       </tr>
       <tr>
         <td align="center"><b>SwiftUI App</b><br/><sub>native iOS sample</sub></td>
         <td align="center">
-          <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat&logo=swift&logoColor=white" alt="SwiftUI"/>
+          <img src="https://shieldcn.dev/badge/SwiftUI-F05138.svg?logo=swift" alt="SwiftUI"/>
         </td>
         <td align="center"><a href="https://github.com/mfranchescagonzalezcejas/AppSwiftUI">repo →</a></td>
       </tr>
       <tr>
         <td align="center"><b>Android App</b><br/><sub>native Android sample</sub></td>
         <td align="center">
-          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
-          <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white" alt="Jetpack Compose"/>
+          <img src="https://shieldcn.dev/badge/Kotlin-7F52FF.svg?logo=kotlin" alt="Kotlin"/>
+          <img src="https://shieldcn.dev/badge/Jetpack_Compose-4285F4.svg?logo=android" alt="Jetpack Compose"/>
         </td>
         <td align="center"><a href="https://github.com/mfranchescagonzalezcejas/AppAndroid">repo →</a></td>
       </tr>
