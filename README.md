@@ -80,11 +80,15 @@
     </td>
     <td align="center" valign="middle" width="50%" style="border: none;">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,python,fastapi,firebase&theme=light" alt="tech stack"/>
+        <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,python,fastapi,firebase,vercel&theme=light" alt="tech stack"/>
       </a>
       <br/>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=docker,postgresql,git,github,gitlab,jenkins&theme=light" alt="tech stack"/>
+      </a>
+      <br/>
+      <a href="https://devicons.railway.com">
+        <img src="https://devicons.railway.com/railway%20dark.svg" alt="Railway" height="38"/>
       </a>
     </td>
   </tr>
