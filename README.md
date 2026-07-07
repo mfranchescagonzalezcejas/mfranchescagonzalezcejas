@@ -44,7 +44,7 @@
 
 <table>
   <tr>
-    <td align="center" valign="middle" width="50%">
+    <td align="center" width="50%">
       <sub><b>· &nbsp; F I N D &nbsp; M E &nbsp; ·</b></sub>
       <br/><br/>
       <a href="https://devdigi.dev/en">
@@ -60,19 +60,11 @@
         <img src="https://img.shields.io/badge/Email-0d9488?style=for-the-badge&logo=gmail&logoColor=fafafa" alt="Email"/>
       </a>
     </td>
-    <td align="center" valign="middle" width="50%">
+    <td align="center" width="50%">
       <sub><b>· &nbsp; T O O L K I T &nbsp; ·</b></sub>
       <br/><br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,python&theme=light" alt="mobile"/>
-      </a>
-      <br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=fastapi,firebase,docker,postgresql&theme=light" alt="backend"/>
-      </a>
-      <br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins&theme=light" alt="cicd"/>
+        <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,python,fastapi,firebase,docker,postgresql,git,github,gitlab,jenkins&theme=light" alt="tech stack"/>
       </a>
     </td>
   </tr>
