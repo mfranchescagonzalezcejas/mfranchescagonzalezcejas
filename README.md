@@ -66,16 +66,16 @@
   <tr>
     <td align="center" valign="middle" width="50%" style="border: none;">
       <a href="https://devdigi.dev/en">
-        <img src="https://img.shields.io/badge/Portfolio-devdigi.dev-0f172a?style=for-the-badge&logo=vercel&logoColor=fafafa" alt="Portfolio"/>
+        <img src="https://img.shields.io/badge/Portfolio-devdigi.dev-0f172a?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
       </a>&nbsp;
       <a href="https://www.linkedin.com/in/mercedes-franchesca-gonzalez-cejas-7555a7177">
-        <img src="https://img.shields.io/badge/LinkedIn-Mercedes_Gonzalez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fafafa" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/LinkedIn-Mercedes_Gonzalez-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>&nbsp;
       <a href="https://github.com/mfranchescagonzalezcejas">
-        <img src="https://img.shields.io/badge/GitHub-mfranchescagonzalezcejas-0f172a?style=for-the-badge&logo=github&logoColor=fafafa" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/GitHub-mfranchescagonzalezcejas-0f172a?style=flat&logo=github&logoColor=white" alt="GitHub"/>
       </a>&nbsp;
       <a href="mailto:mercedesgon03@gmail.com">
-        <img src="https://img.shields.io/badge/Email-0d9488?style=for-the-badge&logo=gmail&logoColor=fafafa" alt="Email"/>
+        <img src="https://img.shields.io/badge/Email-0d9488?style=flat&logo=gmail&logoColor=white" alt="Email"/>
       </a>
     </td>
     <td align="center" valign="middle" width="50%" style="border: none;">
