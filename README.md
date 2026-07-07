@@ -15,12 +15,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://shieldcn.dev/badge/🔍_Open_to_Work-0d9488.svg?logo=github" alt="Open to Work"/>
+  <img src="https://shieldcn.dev/badge/🔍_Open_to_Work-0d9488.svg?logo=github&variant=outline" alt="Open to Work"/>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=mfranchescagonzalezcejas&color=0d9488&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mfranchescagonzalezcejas.mfranchescagonzalezcejas" alt="Profile views"/>
   &nbsp;
-  <a href="https://buymeacoffee.com/devdigi" target="_blank">
-    <img src="https://shieldcn.dev/badge/Buy_Me_a_Coffee-ffdd00.svg?logo=buy-me-a-coffee" alt="Buy Me a Coffee"/>
+  <a href="https://ko-fi.com/devdigi" target="_blank">
+    <img src="https://shieldcn.dev/badge/Ko--fi-FF5E5B.svg?logo=ko-fi" alt="Ko-fi"/>
   </a>
 </div>
 
