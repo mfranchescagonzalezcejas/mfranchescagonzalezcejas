@@ -84,48 +84,6 @@
   <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0d9488,100:0f172a&height=3&section=header" alt=""/>
 </div>
 
-<!-- ─── EXPERIENCE ────────────────────────────────────────────────────── -->
-
-<div align="center">
-  <sub><b>· &nbsp; E X P E R I E N C E &nbsp; ·</b></sub>
-
-<br/><br/>
-
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Role</th>
-        <th align="center">Company</th>
-        <th align="center">Focus</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center"><b>Native Apps Developer</b><br/><sub>Apr 2024 – Jan 2026</sub></td>
-        <td align="center">Worldline Global Services</td>
-        <td align="center">Flutter apps for Ajuntament de Barcelona (La Mercè, Barcelona a la Butxaca), QA for Nescafé Dolce Gusto</td>
-      </tr>
-      <tr>
-        <td align="center"><b>Native Apps Developer Intern</b><br/><sub>Apr 2023 – Apr 2024</sub></td>
-        <td align="center">Worldline Global Services</td>
-        <td align="center">iOS (Swift), Android (Kotlin), Flutter cross-platform apps</td>
-      </tr>
-      <tr>
-        <td align="center"><b>Front-End Developer Intern</b><br/><sub>Oct 2021 – Apr 2022</sub></td>
-        <td align="center">Avanade</td>
-        <td align="center">PowerApps, Power BI, enterprise client projects</td>
-      </tr>
-    </tbody>
-  </table>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0d9488,100:0f172a&height=3&section=header" alt=""/>
-</div>
-
 <!-- ─── FEATURED ──────────────────────────────────────────────────────── -->
 
 <div align="center">
