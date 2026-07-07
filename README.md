@@ -34,9 +34,7 @@
 
 ### &nbsp;&nbsp;The short version
 
-<div style="float: right; margin-left: 20px; display: inline-block; padding: 3px; border-radius: 22px; background: linear-gradient(135deg, #0d9488, #1e40af);">
-  <img width="220" height="220" src="assets/ado-adosense.gif" alt="ADO" style="border-radius: 19px; display: block; object-fit: cover;"/>
-</div>
+<img align="right" width="220" height="220" src="assets/ado-adosense.gif" alt="ADO" style="border-radius: 20px; border: 3px solid #0d9488; box-shadow: 0 0 16px rgba(13, 148, 136, 0.35); object-fit: cover; margin-left: 20px"/>
 
 &nbsp;&nbsp;Flutter Developer shipping production apps used by real users —<br/>
 &nbsp;&nbsp;from city-wide public services (50K+ installs) to full-stack projects.<br/>
