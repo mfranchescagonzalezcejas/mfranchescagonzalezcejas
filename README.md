@@ -196,23 +196,6 @@
   <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0d9488,100:0f172a&height=3&section=header" alt=""/>
 </div>
 
-<!-- ─── TROPHIES ──────────────────────────────────────────────────────── -->
-
-<div align="center">
-  <sub><b>· &nbsp; T R O P H I E S &nbsp; ·</b></sub>
-
-<br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=mfranchescagonzalezcejas&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0d9488,100:0f172a&height=3&section=header" alt=""/>
-</div>
-
 <!-- ─── RECENT ACTIVITY ──────────────────────────────────────────────── -->
 
 <div align="center">
