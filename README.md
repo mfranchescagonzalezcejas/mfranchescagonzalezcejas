@@ -14,10 +14,14 @@
 
 <br/>
 
-<!-- ─── OPEN TO WORK ───────────────────────────────────────────────────── -->
-
 <div align="center">
   <img src="https://img.shields.io/badge/🔍-Open%20to%20Work-0d9488?style=for-the-badge&logo=github&logoColor=fafafa" alt="Open to Work"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=mfranchescagonzalezcejas&color=0d9488&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+  &nbsp;
+  <a href="https://www.buymeacoffee.com/mercedesgonzalezcejas" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+  </a>
 </div>
 
 <br/>
@@ -154,10 +158,6 @@
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=mfranchescagonzalezcejas&show_icons=true&hide_title=true&hide_rank=true&theme=tokyonight&compact=true" alt="GitHub stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mfranchescagonzalezcejas&theme=tokyonight&hide_border=true&card_width=495" alt="GitHub streak"/>
 
-<br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=mfranchescagonzalezcejas&color=0d9488&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
 </div>
 
 <br/>
@@ -174,21 +174,6 @@
 <br/><br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mfranchescagonzalezcejas&bg_color=0f172a&color=0d9488&line=3b82f6&point=ffffff&area=true&area_color=1e40af&hide_border=true" alt="GitHub Activity Graph"/>
-
-</div>
-
-<br/>
-
-<!-- ─── SUPPORT ───────────────────────────────────────────────────────── -->
-
-<div align="center">
-  <sub><b>· &nbsp; S U P P O R T &nbsp; ·</b></sub>
-
-<br/><br/>
-
-  <a href="https://www.buymeacoffee.com/mercedesgonzalezcejas" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
-  </a>
 
 </div>
 
