@@ -44,9 +44,15 @@
 
 <table>
   <tr>
-    <td align="center" style="vertical-align: middle;" width="50%">
+    <td align="center" width="50%">
       <sub><b>· &nbsp; F I N D &nbsp; M E &nbsp; ·</b></sub>
-      <br/><br/>
+    </td>
+    <td align="center" width="50%">
+      <sub><b>· &nbsp; T O O L K I T &nbsp; ·</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" width="50%">
       <a href="https://devdigi.dev/en">
         <img src="https://img.shields.io/badge/Portfolio-devdigi.dev-0f172a?style=for-the-badge&logo=vercel&logoColor=fafafa" alt="Portfolio"/>
       </a>&nbsp;
@@ -60,9 +66,7 @@
         <img src="https://img.shields.io/badge/Email-0d9488?style=for-the-badge&logo=gmail&logoColor=fafafa" alt="Email"/>
       </a>
     </td>
-    <td align="center" style="vertical-align: middle;" width="50%">
-      <sub><b>· &nbsp; T O O L K I T &nbsp; ·</b></sub>
-      <br/><br/>
+    <td align="center" valign="middle" width="50%">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,python,fastapi,firebase,docker,postgresql,git,github,gitlab,jenkins&theme=light" alt="tech stack"/>
       </a>
@@ -81,7 +85,7 @@
 <div align="center">
   <sub><b>· &nbsp; E X P E R I E N C E &nbsp; ·</b></sub>
 
-  <br/><br/>
+<br/><br/>
 
   <table>
     <thead>
@@ -123,7 +127,7 @@
 <div align="center">
   <sub><b>· &nbsp; F E A T U R E D &nbsp; ·</b></sub>
 
-  <br/><br/>
+<br/><br/>
 
   <table>
     <thead>
@@ -175,7 +179,7 @@
 <div align="center">
   <sub><b>· &nbsp; S T A T S &nbsp; ·</b></sub>
 
-  <br/><br/>
+<br/><br/>
 
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=mfranchescagonzalezcejas&show_icons=true&hide_title=true&hide_rank=true&theme=tokyonight&compact=true" alt="GitHub stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mfranchescagonzalezcejas&theme=tokyonight&hide_border=true&card_width=495" alt="GitHub streak"/>
