@@ -114,27 +114,44 @@
     <tbody>
       <tr>
         <td align="center"><b>InkScroller</b><br/><sub>manga reading app</sub></td>
-        <td align="center">Flutter · Dart · FastAPI · Python · PostgreSQL</td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        </td>
         <td align="center"><a href="https://github.com/mfranchescagonzalezcejas/inkscroller_frontend">frontend →</a> · <a href="https://github.com/mfranchescagonzalezcejas/Inkscroller_backend">backend →</a></td>
       </tr>
       <tr>
         <td align="center"><b>La Mercè 2024</b><br/><sub>official Barcelona event app</sub></td>
-        <td align="center">Flutter · Dart</td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/>
+        </td>
         <td align="center"><a href="https://apps.apple.com/us/app/merc%C3%A8-festa-de-barcelona/id686632305">App Store →</a> · <a href="https://play.google.com/store/apps/details?id=ajuntament.barcelona.lamerce">Google Play →</a></td>
       </tr>
       <tr>
         <td align="center"><b>Barcelona a la Butxaca</b><br/><sub>city services app</sub></td>
-        <td align="center">Flutter · Dart</td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/>
+        </td>
         <td align="center"><a href="https://apps.apple.com/us/app/barcelona-a-la-butxaca/id1465234509">App Store →</a> · <a href="https://play.google.com/store/apps/details?id=ajuntament.barcelona.la_butcaxa">Google Play →</a></td>
       </tr>
       <tr>
         <td align="center"><b>SwiftUI App</b><br/><sub>native iOS sample</sub></td>
-        <td align="center">SwiftUI</td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat&logo=swift&logoColor=white" alt="SwiftUI"/>
+        </td>
         <td align="center"><a href="https://github.com/mfranchescagonzalezcejas/AppSwiftUI">repo →</a></td>
       </tr>
       <tr>
         <td align="center"><b>Android App</b><br/><sub>native Android sample</sub></td>
-        <td align="center">Kotlin · Jetpack Compose</td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
+          <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white" alt="Jetpack Compose"/>
+        </td>
         <td align="center"><a href="https://github.com/mfranchescagonzalezcejas/AppAndroid">repo →</a></td>
       </tr>
     </tbody>
