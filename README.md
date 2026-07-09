@@ -203,7 +203,7 @@ Based in Barcelona.
 
 <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mfranchescagonzalezcejas&bg_color=0f172a&color=0d9488&line=3b82f6&point=ffffff&area=true&area_color=1e40af&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://activity-graph-eta.vercel.app/graph?username=mfranchescagonzalezcejas&bg_color=0f172a&color=0d9488&line=3b82f6&point=ffffff&area=true&area_color=1e40af&hide_border=true" alt="GitHub Activity Graph"/>
 
 </div>
 
