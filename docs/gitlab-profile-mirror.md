@@ -1,57 +1,59 @@
-# GitHub → GitLab profile mirror (safe pilot)
+# GitHub → GitLab profile backup (non-destructive pilot)
 
-GitHub is the sole source of truth. This pilot automatically copies the GitHub `main` history to **`github-mirror/main`** inside the existing GitLab profile repository. It does **not** modify GitLab `main`, because the GitLab and GitHub profiles began with unrelated commit histories and different READMEs.
+GitHub is the source of truth. GitLab stores **isolated namespaced copies of GitHub branches and tags**, without altering the existing GitLab profile or overwriting divergent histories.
 
-- Source: `mfranchescagonzalezcejas/mfranchescagonzalezcejas` on GitHub, `main`.
-- Destination: `mfranchescagonzalezcejas/mfranchescagonzalezcejas` on GitLab, `github-mirror/main`.
-- Original GitLab `main` snapshot: `archive/gitlab-main-before-github-mirror-20260929` (commit `7b3a905104a44749e4e3223be04171ce7926d0c4`).
-- GitHub main at audit: `4acba7ec12513ef9940ab079074e5b74ffa43aa7`.
-- Triggers: pushes to GitHub `main`, manual dispatch, and daily retry at 03:23 UTC.
-- Safety: no force-push, no prune, no deletion, and an exact SHA verification after every push. If the mirror has diverged, the workflow **fails** rather than overwriting anything.
+## Current layout
 
-## One-time authentication (perform locally; never paste private keys into issues, PRs, or chats)
+| GitHub source ref | GitLab destination ref |
+| --- | --- |
+| `refs/heads/main` | `refs/heads/github-mirror/main` |
+| `refs/heads/feature/example` | `refs/heads/github-mirror/feature/example` |
+| `refs/tags/v1.0` | `refs/tags/github-mirror/v1.0` |
 
-Use a **dedicated GitLab project deploy key with write permission**, rather than a GitLab account-wide token. From your own Arch Linux workstation:
+- GitHub repository: `mfranchescagonzalezcejas/mfranchescagonzalezcejas`.
+- GitLab repository: `mfranchescagonzalezcejas/mfranchescagonzalezcejas`.
+- **Protected, original GitLab `main` stays untouched.** Its snapshot is `archive/gitlab-main-before-github-mirror-20260929`, commit `7b3a905104a44749e4e3223be04171ce7926d0c4`.
+- Initial GitHub → GitLab `github-mirror/main` pilot was verified on 2026-09-29 (exact matching SHA `769b34d0a9756de507f967b9d5f3eea8933e0c34`).
+- The branch/tag expansion is covered by `.github/scripts/mirror-gitlab-refs.sh`, with isolated integration tests in `.github/scripts/test-mirror-gitlab-refs.sh`.
 
-```bash
-mkdir -p ~/.ssh
-chmod 700 ~/.ssh
-test ! -e ~/.ssh/github-to-gitlab-profile || { echo "Key exists; stop and reuse or back it up"; exit 1; }
-ssh-keygen -t ed25519 -f ~/.ssh/github-to-gitlab-profile \
-  -C "github-actions-profile-mirror" -N ''
-cat ~/.ssh/github-to-gitlab-profile.pub
-```
+## Execution and guarantees
 
-In the [existing GitLab profile repository](https://gitlab.com/mfranchescagonzalezcejas/mfranchescagonzalezcejas), visit **Settings → Repository → Deploy keys → Add new key**. Paste **only** the `.pub` key, name it `github-actions-profile-mirror`, and select **Grant write permissions**. The destination mirror branch is deliberately separate from protected `main`.
+The GitHub Actions workflow `.github/workflows/mirror-to-gitlab.yml`:
+1. Runs credential-free integration tests on PRs to `main`.
+2. After a successful test job, syncs every GitHub branch and tag on pushes to **GitHub `main`**, on manual dispatch **from `main`**, and daily at **03:23 UTC**.
+3. Fetches the source's refs and checks the destinations first. GitLab branches must accept fast-forward updates; existing tags must match *exactly*.
+4. Pushes each ref without force and verifies the exact remote SHA (including annotated tag objects). A conflict fails the job **before any push**.
+5. Never prunes or deletes GitLab refs: deleted GitHub branches/tags remain as archival GitLab copies until explicitly reviewed and removed separately.
 
-Still on your own machine, capture GitLab.com's SSH host public key **and confirm its fingerprint matches the fingerprint published on GitLab.com's [instance configuration page](https://gitlab.com/help/instance_configuration#ssh-host-keys-fingerprints)** before using the captured key:
+Note: pushes **only** to non-`main` GitHub branches will normally be picked up by the daily schedule (or manual dispatch). As with any GitHub Actions schedule on an inactive public repository, check that scheduled runs remain enabled.
 
-```bash
-ssh-keyscan -t ed25519 gitlab.com 2>/dev/null > ~/.ssh/gitlab-mirror-known_hosts
-ssh-keygen -lf ~/.ssh/gitlab-mirror-known_hosts -E sha256
-```
+A **pass** means all current source branch and tag refs were verified for that run. There is no automatic recovery from a force-push or rewritten source history; the job deliberately fails closed and requires manual investigation.
 
-After confirming the fingerprint, configure the following two **GitHub Actions repository secrets** in **Settings → Secrets and variables → Actions**. Alternatively, with `gh` authenticated on your own workstation, enter:
+## Existing authentication: already configured (2026-09-29)
 
-```bash
-gh secret set GITLAB_PROFILE_MIRROR_SSH_KEY \
-  -R mfranchescagonzalezcejas/mfranchescagonzalezcejas \
-  < ~/.ssh/github-to-gitlab-profile
-gh secret set GITLAB_PROFILE_MIRROR_KNOWN_HOSTS \
-  -R mfranchescagonzalezcejas/mfranchescagonzalezcejas \
-  < ~/.ssh/gitlab-mirror-known_hosts
-```
+A dedicated GitLab project Deploy Key with write permission is installed for **this GitLab profile project only**. Your local private key is stored outside the repository on your own workstation. GitHub Actions holds two repository secrets:
+- `GITLAB_PROFILE_MIRROR_SSH_KEY` — dedicated private SSH key.
+- `GITLAB_PROFILE_MIRROR_KNOWN_HOSTS` — verified GitLab SSH public host key.
 
-Do not share the private key with ChatGPT or add it to Git. Never turn off strict host-key checking to work around a verification failure.
+Do **not** paste either secret into PRs, issue comments, this repository, or chat. The runner uses strict SSH host-key checking and does not persist the GitHub checkout token.
 
-## Activate and verify
+If keys are ever rotated, set the new GitLab Deploy Key and update **both GitHub repository secrets** before revoking the old one.
 
-1. Review and merge the draft PR once the two secrets and GitLab deploy key are configured.
-2. Open GitHub **Actions → Mirror profile to GitLab (safe pilot) → Run workflow** to trigger the initial copy. Merging to GitHub main also triggers the first run.
-3. In GitLab, switch to branch `github-mirror/main`. Confirm both the README and `assets/ado-adosense.gif` exist.
-4. Compare `git rev-parse main` on GitHub with the SHA GitLab reports for `github-mirror/main`. They must match exactly.
-5. Make a normal GitHub README change and ensure the next workflow run advances the GitLab branch.
+## Verification after merging this PR
 
-**Pilot scope:** Only GitHub `main` is mirrored, including its existing commit history. Issues, pull requests, GitHub settings, tags and other branches are not covered by this workflow. Later we can extend backup coverage to additional refs and independent, versioned snapshots.
+1. Check that the **Validate** and **mirror** jobs both pass in GitHub Actions for the merge commit.
+2. On GitLab, verify `github-mirror/main` and `github-mirror/chore/safe-gitlab-profile-mirror` appear as branches. Additional current GitHub branches should appear automatically.
+3. Compare source SHA and corresponding GitLab namespaced ref SHA:
+   ```bash
+   gh api repos/mfranchescagonzalezcejas/mfranchescagonzalezcejas/branches/main --jq '.commit.sha'
+   glab api 'projects/84041700/repository/branches/github-mirror%2Fmain' | jq -r '.commit.id'
+   ```
+4. Review the action logs. No `git push --force`, `--mirror`, or ref deletions should occur.
 
-**Do not switch GitLab's protected `main` or force-push over it** until the preserved GitLab-specific README is consciously accounted for. The snapshot branch is not a replacement for an offline or independent backup.
+## Scope of this backup
+
+Included: Git commit graph reachable from **all current GitHub branches and tags** (including annotated tag objects), plus the namespaced target refs and commit/blob data they reference.
+
+**Not included:** GitHub issues, PR discussions, releases metadata and binaries, wiki, GitHub Actions secrets/settings, Git LFS objects, branches already deleted from GitHub before initial mirroring, or immutable time-stamped/offsite backup snapshots. Plan these separately.
+
+**Expansion to other repositories:** validate each existing GitLab counterpart before changing it; never assume a same-name repository has the same history or visibility. Preserve each original GitLab default branch independently; private GitHub projects must only be copied into private GitLab projects. Use repository-scoped credentials or a carefully scoped backup service. Do not publish an inventory of private repositories into this public profile repository.
