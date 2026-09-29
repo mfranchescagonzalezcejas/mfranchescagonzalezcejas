@@ -1,0 +1,75 @@
+name: Mirror profile to GitLab (safe pilot)
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: "23 3 * * *"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: mirror-gitlab-profile
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    if: github.repository == 'mfranchescagonzalezcejas/mfranchescagonzalezcejas'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check required configuration
+        shell: bash
+        env:
+          MIRROR_SSH_KEY: ${{ secrets.GITLAB_PROFILE_MIRROR_SSH_KEY }}
+          MIRROR_KNOWN_HOSTS: ${{ secrets.GITLAB_PROFILE_MIRROR_KNOWN_HOSTS }}
+        run: |
+          set -euo pipefail
+          if [[ -z "$MIRROR_SSH_KEY" || -z "$MIRROR_KNOWN_HOSTS" ]]; then
+            echo "::error::Set GITLAB_PROFILE_MIRROR_SSH_KEY and GITLAB_PROFILE_MIRROR_KNOWN_HOSTS before enabling this workflow."
+            exit 1
+          fi
+
+      - name: Checkout GitHub source history
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Set up GitLab SSH authentication
+        shell: bash
+        env:
+          MIRROR_SSH_KEY: ${{ secrets.GITLAB_PROFILE_MIRROR_SSH_KEY }}
+          MIRROR_KNOWN_HOSTS: ${{ secrets.GITLAB_PROFILE_MIRROR_KNOWN_HOSTS }}
+        run: |
+          set -euo pipefail
+          install -d -m 700 "$HOME/.ssh"
+          printf '%s\n' "$MIRROR_SSH_KEY" > "$HOME/.ssh/id_ed25519_mirror"
+          chmod 600 "$HOME/.ssh/id_ed25519_mirror"
+          printf '%s\n' "$MIRROR_KNOWN_HOSTS" > "$HOME/.ssh/known_hosts"
+          chmod 600 "$HOME/.ssh/known_hosts"
+          unset MIRROR_SSH_KEY MIRROR_KNOWN_HOSTS
+
+      - name: Mirror GitHub main to isolated GitLab branch (no force, no deletion)
+        shell: bash
+        env:
+          GIT_SSH_COMMAND: ssh -i ~/.ssh/id_ed25519_mirror -o IdentitiesOnly=yes -o StrictHostKeyChecking=yes -o UserKnownHostsFile=~/.ssh/known_hosts
+          GIT_TERMINAL_PROMPT: "0"
+        run: |
+          set -euo pipefail
+          destination="git@gitlab.com:mfranchescagonzalezcejas/mfranchescagonzalezcejas.git"
+          branch="refs/heads/github-mirror/main"
+
+          # Non-fast-forward updates are intentionally rejected.
+          git push "$destination" "HEAD:$branch"
+
+          expected="$(git rev-parse HEAD)"
+          actual="$(git ls-remote "$destination" "$branch" | cut -f 1)"
+          if [[ "$actual" != "$expected" ]]; then
+            echo "::error::GitLab mirror verification failed."
+            exit 1
+          fi
+          echo "Verified GitLab $branch at $expected"
